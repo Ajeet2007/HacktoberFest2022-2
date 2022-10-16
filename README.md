@@ -21,12 +21,10 @@ It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE
 </a>
 <br>
 
-
 ### Language accepted:
 - Python
 - C++
 - Javascript
-
 
 ### Issues(Projects) for Beginners
 
@@ -41,8 +39,6 @@ It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE
 - Different types of search algorithms
 - Number Guessing Game
 - Rock Paper Scissors Game
-
-
 
 ***
 
